@@ -5,7 +5,7 @@ This is a short tutorial about got to read SQL data in Google Colab using Python
 We are going to read SQL queries and relational database tables into DataFrame objects using pandas. Also, we'll look at different techniques to persist that pandas DataFrame objects to database tables.
 Remember that a relational database is a collection of data items with pre-defined relationships between them.
 
-Source:
+**Source**:
 
 https://aws.amazon.com/relational-database/#:~:text=A%20relational%20database%20is%20a,be%20represented%20in%20the%20database.
 
