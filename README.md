@@ -6,6 +6,7 @@ We are going to read SQL queries and relational database tables into DataFrame o
 Remember that a relational database is a collection of data items with pre-defined relationships between them.
 
 Source:
+
 https://aws.amazon.com/relational-database/#:~:text=A%20relational%20database%20is%20a,be%20represented%20in%20the%20database.
 
 
