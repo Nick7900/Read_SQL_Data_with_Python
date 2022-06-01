@@ -1,2 +1,3 @@
 # Read SQL Data with Python
-This repository was created with the goal of reading SQL data in Google Colab using Python.
+This is a short tutorial about got to read SQL data in Google Colab using Python.
+
